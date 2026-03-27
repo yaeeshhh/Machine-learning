@@ -1,7 +1,7 @@
 # 🧬 Logistic Regression from Scratch — Breast Cancer Classification
 
 > **UTS Machine Learning** | Yaeesh Mahomed (24957692)  
-> Individual project — Logistic Regression implemented from scratch (Option A)
+> Individual project — Logistic Regression implemented from scratch
 
 ---
 
