@@ -13,12 +13,6 @@ The goal was to deeply understand how the mathematical theory of logistic regres
 
 ---
 
-## 📓 Colab Notebook
-
-🔗 [Open in Google Colab](https://colab.research.google.com/drive/1g_TZ4MbaBWmJsiaSwJdT6dyGikGdkrE?usp=sharing)
-
----
-
 ## 🗂️ Dataset
 
 **Breast Cancer Wisconsin** — `sklearn.datasets.load_breast_cancer`
